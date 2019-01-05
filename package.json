@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Create and Share Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehj98/ToDoFrontend.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehj98/ToDoFrontend/issues"
+  },
+  "homepage": "https://github.com/mehj98/ToDoFrontend#readme"
+}
